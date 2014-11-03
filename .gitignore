@@ -1,0 +1,8 @@
+/.settings
+/target
+/dist
+.DS_Store
+.project
+*.gzjs
+*.gzcss
+.classpath
